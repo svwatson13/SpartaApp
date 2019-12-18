@@ -1,0 +1,7 @@
+.vagrant
+Kill commands
+aws_keys.txt
+ssh_key.txt
+secrets.txt
+app/node_modules/
+ubuntu-xenial-16.04-cloudimg-console.log
